@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://codeujjwal:codeujjwal@cluster0.exskn.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientID": "e304d6b504190f95e740",
+  "githubSecret": "f168fee89551549e041ffd18b3e6f1cfee19b0c2"
+}
